@@ -27,6 +27,6 @@ setuptools.setup(
     author='Google LLC',
     author_email='noreply@google.com',
     install_requires=INSTALL_REQUIRES,
-    url='https://github.com/google-research/neural-structural-optimization',
+    url='https://github.com/mrDenisZharkov/generativedisign',
     packages=setuptools.find_packages(),
     python_requires='>=3.6')
